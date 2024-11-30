@@ -3,10 +3,9 @@
 ### [✨Visit my github page link🌸](https://valin4637.github.io/)
 <br>
 
-[![It's ME!!!](AFD083DA-7F5E-4CC6-B609-99C3B64ABFB7.jpg)](https://github.com/VaLin4637/VaLin4637.github.io)
+![It's ME!!!](AFD083DA-7F5E-4CC6-B609-99C3B64ABFB7.jpg)
 <figure>
-    <img src="/AFD083DA-7F5E-4CC6-B609-99C3B64ABFB7.jpg" width="400" hight="500">
-    <figcaption>Welcome to the Boxing Camp</figcaption>
+    <img src="/AFD083DA-7F5E-4CC6-B609-99C3B64ABFB7.jpg" width="400" hight="500">>
 </figure>
 
 <br>
