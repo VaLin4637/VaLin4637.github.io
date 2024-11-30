@@ -1,12 +1,10 @@
+
 # ---💖WELLCOME TO MY GIT PAGE💖---
 ## ------VEERAYA LEKCHAOUM------
 ### [✨Visit my github page link🌸](https://valin4637.github.io/)
 <br>
 
-![It's ME!!!](https://github.com/VaLin4637/VaLin4637.github.io/blob/main/S__16097285.jpg)
-<figure>
-    <<img src="[(https://github.com/VaLin4637/VaLin4637.github.io/blob/main/S__16097285.jpg)" alt="It's ME!!!" width="200" height="210">
-</figure>]
+<img src="https://github.com/VaLin4637/VaLin4637.github.io/blob/main/S__16097285.jpg" width="200" height="305">
 
 <br>
 # 💖💖💖
