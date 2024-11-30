@@ -5,7 +5,7 @@
 
 ![It's ME!!!](AFD083DA-7F5E-4CC6-B609-99C3B64ABFB7.jpg)
 <figure>
-    <img src="/AFD083DA-7F5E-4CC6-B609-99C3B64ABFB7.jpg" width="400" hight="500">>
+    <img src="/AFD083DA-7F5E-4CC6-B609-99C3B64ABFB7.jpg" width="400" hight="500">
 </figure>
 
 <br>
