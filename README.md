@@ -3,10 +3,10 @@
 ### [✨Visit my github page link🌸](https://valin4637.github.io/)
 <br>
 
-![It's ME!!!](IMG_4105.jpg)
+![It's ME!!!](https://github.com/VaLin4637/VaLin4637.github.io/blob/main/S__16097285.jpg)
 <figure>
-    <img width="400" hight="500">
-</figure>
+    <<img src="[S__16097285.jpg" width="200" height="210">
+</figure>](https://github.com/VaLin4637/VaLin4637.github.io/blob/main/S__16097285.jpg)
 
 <br>
 # 💖💖💖
