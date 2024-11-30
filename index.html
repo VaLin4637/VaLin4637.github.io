@@ -6,8 +6,9 @@
     <title>V. GitHub Page</title>
 </head>
 <body>
-    <article>
-		<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<article>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         // ดึง Markdown จากไฟล์ .md
         fetch('README.md')
@@ -17,7 +18,9 @@
                 document.getElementById('content').innerHTML = marked(markdown);
             });
     </script>
-		<img src="/AFD083DA-7F5E-4CC6-B609-99C3B64ABFB7.jpg" width="400" hight="500">>
-    </article>
+    <!-- ใช้เฉพาะ Markdown เพื่อแสดงรูป -->
+    <div id="content"></div>
+</article>
+
 </body>
 </html>
