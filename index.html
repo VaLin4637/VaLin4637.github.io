@@ -3,20 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>V. GitHub Page</title>
+    <title>GitHub Page - README</title>
 </head>
 <body>
+    <div id="content"></div> <!-- จุดที่จะแสดงเนื้อหา HTML ที่แปลงจาก Markdown -->
 
-<article>
+    <!-- โหลดไลบรารี Marked.js จาก CDN -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
     <script>
-        // ดึง Markdown จากไฟล์ .md
+        // ดึงข้อมูลจากไฟล์ README.md
         fetch('README.md')
-            .then(response => response.text())
+            .then(response => response.text())  // อ่านเนื้อหาไฟล์ Markdown
             .then(markdown => {
-                // แปลง Markdown เป็น HTML
-                document.getElementById('content').innerHTML = marked(markdown);
-            });
+                // แปลง Markdown เป็น HTML โดยใช้ฟังก์ชัน marked()
+                const htmlContent = marked(markdown);
+
+                // แสดง HTML ที่แปลงแล้วใน <div id="content"></div>
+                document.getElementById('content').innerHTML = htmlContent;
+            })
+            .catch(error => console.error('Error loading the Markdown file:', error));
     </script>
     <!-- ใช้เฉพาะ Markdown เพื่อแสดงรูป -->
     <div id="content"></div>

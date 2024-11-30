@@ -3,7 +3,10 @@
 ### [✨Visit my github page link🌸](https://valin4637.github.io/)
 <br>
 
-![It's ME!!!](AFD083DA-7F5E-4CC6-B609-99C3B64ABFB7.jpg)
+![It's ME!!!](IMG_4105.jpg)
+<figure>
+    <img width="400" hight="500">
+</figure>
 
 <br>
 # 💖💖💖
