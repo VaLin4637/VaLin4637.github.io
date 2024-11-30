@@ -5,8 +5,8 @@
 
 ![It's ME!!!](https://github.com/VaLin4637/VaLin4637.github.io/blob/main/S__16097285.jpg)
 <figure>
-    <<img src="[S__16097285.jpg" width="200" height="210">
-</figure>](https://github.com/VaLin4637/VaLin4637.github.io/blob/main/S__16097285.jpg)
+    <<img src="[(https://github.com/VaLin4637/VaLin4637.github.io/blob/main/S__16097285.jpg)" alt="It's ME!!!" width="200" height="210">
+</figure>]
 
 <br>
 # 💖💖💖
