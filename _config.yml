@@ -1,0 +1,15 @@
+# _config.yml
+
+title: My Modernist Site
+description: A simple and elegant site powered by the Modernist theme.
+baseurl: "" # ตั้งค่าว่างหากไม่ใช้ subfolder
+url: "https://valin4637.github.io" # URL ของ GitHub Pages
+
+theme: "modernist"  # ใช้ธีม Modernist
+
+# การตั้งค่าอื่นๆ เช่น plugins, navigation เป็นต้น
+plugins:
+  - jekyll-feed
+
+# คุณสามารถเพิ่มค่าต่างๆ เช่น การตั้งค่า SEO, ภาษา, หรือ favicon
+# lang: en
