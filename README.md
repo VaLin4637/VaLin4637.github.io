@@ -1,5 +1,5 @@
 **Profile Page**
-## ---💖WELLCOME TO MY GIT PAGE💖---
+## ---💖WELCOME TO MY GIT PAGE💖---
 ### [✨Visit my github page link🌸](https://valin4637.github.io/)
 
 <br>
