@@ -1,6 +1,7 @@
+
 Project
 ------------------------------------------------------------------------------------------------
-This is the project that I have done, which is the final project of each course I have studied.
+**This is the project that I have done, which is the final project of each course I have studied.*
 
 <br>
 
