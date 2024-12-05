@@ -5,9 +5,9 @@ config = YAML.load_file('_config.yml')
 
 # สร้างเนื้อหาที่จะเพิ่มใน README.md
 readme_content = <<-MD
-# Project Title
 
-## ข้อมูลจาก `_config.yml`
+
+
 - **Contact Email**: #{config['contact_email']}
 
 
