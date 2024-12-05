@@ -1,22 +1,9 @@
-**Profile Page**
-## ---💖WELCOME TO MY GIT PAGE💖---
-### [✨Visit my github page link🌸](https://valin4637.github.io/)
+# Project Title
 
-<br>
-
-![It's ME!!!!](https://github.com/VaLin4637/VaLin4637.github.io/blob/main/image2.jpg?raw=true)
+## ข้อมูลจาก `_config.yml`
+- **Contact Email**: veeraya.lek@gmail.com
 
 
-<br>
-# 💖💖💖
-*Hi, I'm Pleng. Now I'm a junior in Computer Science at the Faculty of Science at Sriracha.🍡*
-<br>
-- NAME: Veeraya Lekchaoum
-- NICNAME: Pleng
-- ID: 6530200479
-- UNIVERSITY: Kasetsart University Sriracha Campus
-<br>
-
-
------------------------------------------------------------------------------------------------------------
-[KEYWORD WORK](risk_transference.md)
+### Social Media Links:
+- [LinkedIn](www.linkedin.com/in/veeraya-lekchaoum-2351bb305)
+- [GitHub](https://github.com/VaLin4637)

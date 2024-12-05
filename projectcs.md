@@ -1,15 +1,9 @@
-Project
-------------------------------------------------------------------------------------------------
-This is the project that I have done, which is the final project of each course I have studied.
+# Project Title
 
-<br>
+## ข้อมูลจาก `_config.yml`
+- **Contact Email**: veeraya.lek@gmail.com
 
-- FRESHMAN 2022
 
-<br>
-
-- SOPHOMRE 2023
-
-<br>
-
-- JUNIOR 2024
+### Social Media Links:
+- [LinkedIn](www.linkedin.com/in/veeraya-lekchaoum-2351bb305)
+- [GitHub](https://github.com/VaLin4637)
