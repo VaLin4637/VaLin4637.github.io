@@ -4,7 +4,7 @@
 
 <br>
 
-![It's ME!!!!](/workspaces/VaLin4637.github.io/image/image2.jpg)
+![It's ME!!!!](image/image2.jpg)
 
 
 <br>
