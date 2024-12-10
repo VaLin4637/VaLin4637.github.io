@@ -1,7 +1,7 @@
 **Risk Transference/Risk Transfer**
 
 ## WHAT DOSE IT MEAN?
-
+-----------------------------------------------------------------------------------------------------------
 
 ### CISSP Glossary
 *https://www.isc2.org/certifications/cissp/cissp-student-glossary*  
