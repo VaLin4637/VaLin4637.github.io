@@ -8,7 +8,7 @@
 
 
 
-# 💖💖💖
+
 *Hi, I'm Pleng. Now I'm a junior in Computer Science at the Faculty of Science at Sriracha.🍡*
 
 - NAME: Veeraya Lekchaoum
