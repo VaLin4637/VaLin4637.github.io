@@ -23,3 +23,6 @@
 
 
 - [Christmas & New Year 2025](e-card.md)
+
+
+- [Data Quality](accuracy.md)
