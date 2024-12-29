@@ -1,6 +1,7 @@
 **Data Quality**
 
-##### Accuracy
+### Accuracy
+
 What is Accuracy?
 -----------------------------------------------
 
