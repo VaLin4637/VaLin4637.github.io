@@ -1,10 +1,8 @@
 **Data Quality**
 
 ### Accuracy
-
 What is Accuracy?
 -----------------------------------------------
-
 
 ## Definition🌷
 
