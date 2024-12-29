@@ -2,7 +2,7 @@
 
 ### Accuracy
 What is Accuracy?
------------------------------------------------
+
 
 ## Definition🌷
 
