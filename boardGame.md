@@ -48,3 +48,7 @@
 ### สมาชิกในกลุ่ม ###
 
 - [Supakrit Somritjinda](https://jekoflash.github.io/boardGame)
+
+- [Klittima Chaowadee](https://anniemark2522.github.io/boardgame/boardg)
+
+- [Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
