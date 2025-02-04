@@ -52,3 +52,7 @@
 - [Klittima Chaowadee](https://anniemark2522.github.io/boardgame/boardg)
 
 - [Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
+
+- [Natchanan Lordee]()
+
+- [Nonpawit Silabumrungrad]()
