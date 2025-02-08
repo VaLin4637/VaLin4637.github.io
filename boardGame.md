@@ -53,6 +53,6 @@
 
 - [Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
 
-- [Natchanan Lordee]()
+- [Natchanan Lordee](https://ncnld2547.github.io/boardgameActivity)
 
-- [Nonpawit Silabumrungrad]()
+- [Nonpawit Silabumrungrad](https://waterondaway.github.io/boardgame)
